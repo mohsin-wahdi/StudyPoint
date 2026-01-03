@@ -125,7 +125,7 @@ export default function FAQ() {
             </div>
           </div>
 
-          {/* FAQ Item 4 */}
+          {/* FAQ Item 4 mm*/}
           <div className="group">
             <div className="bg-white/[0.02] backdrop-blur-sm rounded-xl border border-white/[0.05] hover:border-white/10 transition-all duration-500 hover:bg-white/[0.04]">
               <button
